@@ -327,7 +327,7 @@
   width: 100px;
   height: 100px;
 
-  @include breakpoint($large) {
+  @include breakpoint($xlarge) {
     width: 150px;
     height: 150px;
   }
@@ -341,7 +341,7 @@
    height: 80px;
    border-radius: 100%;
 
-  @include breakpoint($large) {
+  @include breakpoint($xlarge) {
     width: 80px;
     height: 80px;
     padding: 5px;
