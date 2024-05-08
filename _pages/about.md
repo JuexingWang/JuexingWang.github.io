@@ -12,13 +12,13 @@ I am a third-year PhD student at the CSE department, Michigan State University.
 
 Recent News
 ======
-* **May 2024** I am happy to be awarded the NSF Travel Grant for attending ACM MobiSys '24.
-* **Mar 2024** Our paper is accepted at MobiSys '24.
-* **Aug 2023** Our survey paper about soil is accepted at Network.
-* **Jul 2023** Our paper is accepted at UbiComp '23.
-* **May 2023** I am happy to receive the Summer Research Fellowship from Michigan State University.
-* **Mar 2023** Our paper is accepted at MobiSys '23.
-* **Dec 2022** Our paper is accepted at INFOCOM '23.
+* **May 2024**  I am happy to be awarded the NSF Travel Grant for attending ACM MobiSys '24.
+* **Mar 2024**  Our paper is accepted at MobiSys '24.
+* **Aug 2023**  Our survey paper about soil is accepted at Network.
+* **Jul 2023**  Our paper is accepted at UbiComp '23.
+* **May 2023**  I am happy to receive the Summer Research Fellowship from Michigan State University.
+* **Mar 2023**  Our paper is accepted at MobiSys '23.
+* **Dec 2022**  Our paper is accepted at INFOCOM '23.
   
 Publications
 ======
