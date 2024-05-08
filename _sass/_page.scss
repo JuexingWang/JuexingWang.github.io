@@ -339,12 +339,12 @@
   // border-radius: 50%;
    width: 100px;
    height: 100px;
-   border-radius: 80%;
+   // border-radius: 80%;
 
   @include breakpoint($large) {
     width: 100px;
     height: 100px;
-    padding: 5px;
+    padding: 0px;
     border: 1px solid $border-color;
   }
 }
