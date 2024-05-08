@@ -38,7 +38,8 @@ Publications
   
 * FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker  
   Guangjing Wang, Qiben Yan, Shane Patrarungrong, **Juexing Wang**, and Huacheng Zeng  
-  IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10(Full paper)
+  IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10  
+  (Full paper, Acceptance rate: 252/1312=19.2%)
 
 * Survey for Soil Sensing with IOT and Traditional Systems  
   **Juexing Wang**, Xiao Zhang, Li Xiao, Tianxing Li  
