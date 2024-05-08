@@ -324,12 +324,12 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 
-  @include breakpoint($xlarge) {
-    width: 150px;
-    height: 150px;
+  @include breakpoint($large) {
+    width: 200px;
+    height: 200px;
   }
 }
 
@@ -337,13 +337,13 @@
   // width: 40px;
   // height: 40px;
   // border-radius: 50%;
-   width: 80px;
-   height: 80px;
-   border-radius: 100%;
+   width: 100px;
+   height: 100px;
+   border-radius: 80%;
 
-  @include breakpoint($xlarge) {
-    width: 80px;
-    height: 80px;
+  @include breakpoint($large) {
+    width: 100px;
+    height: 100px;
     padding: 5px;
     border: 1px solid $border-color;
   }
