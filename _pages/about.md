@@ -8,4 +8,4 @@ redirect_from:
 ---
 I am a third-year PhD student at the CSE department, Michigan State University.
 
-_Research Interests:_ Artificial Intelligence of Things(AIOT), Wireless Sensing, Mobile Health, Cyber-Security, Smart Agriculture
+**Research Interests:** Artificial Intelligence of Things(AIOT), Wireless Sensing, Mobile Health, Cyber-Security, Smart Agriculture
