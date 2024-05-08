@@ -23,7 +23,7 @@ Recent News
 Publications
 ======
 * SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing  
-  **Juexing Wang***, Yuda Feng*, Gouree Kumbhar, Guangjing Wang, Qiben Yan, Qingxu Jin, Robert C. Ferrier, Jie Xiong, Tianxing Li   
+  __Juexing Wang__*, Yuda Feng *, Gouree Kumbhar, Guangjing Wang, Qiben Yan, Qingxu Jin, Robert C. Ferrier, Jie Xiong, Tianxing Li   
   In Proceedings of ACM Conference on Mobile Systems, Applications, and Services (MobiSys), 2024. (Full paper, Acceptance rate: 43/263=16.3%)
 
 * PATCH: A Plug-in Framework of Non-blocking Inference for Distributed Multimodal System  
