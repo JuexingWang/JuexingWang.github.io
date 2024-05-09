@@ -30,7 +30,7 @@ Publications
 * PATCH: A Plug-in Framework of Non-blocking Inference for Distributed Multimodal System  
   **Juexing Wang**, Guangjing Wang, Xiao Zhang, Li Liu, Huacheng Zeng, Li Xiao, Zhichao Cao, Lin Gu, Tianxing Li  
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2023.  
-  (Full paper)
+  (Full paper, Acceptance rate: 28%)
 
 * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips  
   Zhang, Xiao, Griffin Klevering, **Juexing Wang**, Li Xiao, and Tianxing Li  
