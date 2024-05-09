@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the CSE department at Michigan State University, working under the supervision of Prof. Tianxing Li. I received my B.S. degree from Wuhan University and my Master's degree from Worcester Polytechnic Institute (ECE) and University of Massachusetts Amherst (CS), where I focused on mmWave sensing with Professor Jie Xiong.
+I am a third-year PhD student in the CSE department at Michigan State University, working under the supervision of Prof. Tianxing Li. I received my B.S. degree from Wuhan University and my Master's degree from Worcester Polytechnic Institute (ECE) and University of Massachusetts Amherst (CS), where I focused on mmWave sensing with Prof. Jie Xiong.
 
 
 **Research Interests:** Artificial Intelligence of Things, Wireless Sensing, Smart Agriculture, Mobile Health, Cybersecurity
