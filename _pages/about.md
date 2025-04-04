@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the CSE department at Michigan State University, working under the supervision of Prof. [Tianxing Li](https://www.cse.msu.edu/~litianx2/). I received my B.S. degree from Wuhan University and completed my Master's degree from Worcester Polytechnic Institute (ECE) and University of Massachusetts Amherst (CS), where I worked on mmWave sensing with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/).
+I am a fourth-year Ph.D. candidate in the Department of Computer Science and Engineering at Michigan State University, advised by Prof. [Tianxing Li](https://www.cse.msu.edu/~litianx2/). I received my B.S. degree from Wuhan University, and subsequently earned Master’s degrees in Electrical and Computer Engineering from Worcester Polytechnic Institute and in Computer Science from the University of Massachusetts Amherst, where I worked on mmWave sensing under the guidance of Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 
 **Research Interests:**  Wireless Sensing, Smart Agriculture, Environmental Monitoring, Artificial Intelligence of Things, Multi-modality, Mobile Health, Cybersecurity
