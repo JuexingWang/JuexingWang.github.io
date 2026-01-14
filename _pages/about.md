@@ -9,17 +9,26 @@ redirect_from:
 I am a fourth-year Ph.D. candidate in the Department of Computer Science and Engineering at Michigan State University, advised by Prof. [Tianxing Li](https://www.cse.msu.edu/~litianx2/). I received my B.S. degree from Wuhan University, and subsequently earned Master’s degrees in Electrical and Computer Engineering from Worcester Polytechnic Institute and in Computer Science from the University of Massachusetts Amherst, where I worked on mmWave sensing under the guidance of Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 
-**Research Interests:**  Wireless Sensing, Smart Agriculture, Environmental Monitoring, Artificial Intelligence of Things, Multi-modality, Mobile Health, Cybersecurity
+**Research Interests:**  Wireless and passive sensing，
+
+Multimodal and physics-aligned learning，
+
+Artificial intelligence of things (AIoT)，
+
+Environmental monitoring and smart agriculture
+
 
 Recent News
 ======
+* **Jan 2026**  One paper is accepted at Ubicomp'26
+* **Dec 2025**  One paper is accepted at Transactions on Mobile Computing(TMC)
 * **May 2024**  I am happy to be awarded the NSF Travel Grant for attending ACM MobiSys '24.
-* **Mar 2024**  Our paper is accepted at MobiSys '24.
-* **Aug 2023**  Our survey paper about soil is accepted at Network.
-* **Jul  2023**  Our paper is accepted at UbiComp '23.
+* **Mar 2024**  One paper is accepted at MobiSys '24.
+* **Aug 2023**  One survey paper about soil is accepted at Network.
+* **Jul  2023** One paper is accepted at UbiComp '23.
 * **May 2023**  I am happy to receive the Summer Research Fellowship from Michigan State University.
-* **Mar 2023**  Our paper is accepted at MobiSys '23.
-* **Dec 2022**  Our paper is accepted at INFOCOM '23.
+* **Mar 2023**  One paper is accepted at MobiSys '23.
+* **Dec 2022**  One paper is accepted at INFOCOM '23.
   
 Publications
 ======
