@@ -21,7 +21,7 @@ Environmental monitoring and smart agriculture
 Recent News
 ======
 * **Jan 2026**   One paper is accepted at Ubicomp'26
-* **Dec 2025**  One paper is accepted at Transactions on Mobile Computing(TMC)
+* **Dec 2025**  One paper is accepted at Transactions on Mobile Computing (TMC)
 * **May 2024**  I am happy to be awarded the NSF Travel Grant for attending ACM MobiSys '24.
 * **Mar 2024**  One paper is accepted at MobiSys '24.
 * **Aug 2023**  One survey paper about soil is accepted at Network.
