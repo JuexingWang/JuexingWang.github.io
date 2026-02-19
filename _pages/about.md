@@ -33,7 +33,7 @@ Recent News
 Publications
 ======
 * SoilNutri: A Passive Metasurface-based, Low-cost System for Soil Moisture and Nitrogen Monitoring
-  **Juexing Wang**, Binbin Xie, Yimeng Liu, Minhao Cui, Xiao Zhang, Guangjing Wang, Ke Sun, Zhichao Cao, Huacheng Zeng, Qingxu Jin, Younsuk Dong, Hui Li, Jie Xiong, Tianxing Li.
+  **Juexing Wang**, Binbin Xie, Yimeng Liu, Minhao Cui, Xiao Zhang, Guangjing Wang, Ke Sun, Zhichao Cao, Huacheng Zeng, Qingxu Jin, Younsuk Dong, Hui Li, Jie Xiong, Tianxing Li
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.
   (Full paper.)
 
