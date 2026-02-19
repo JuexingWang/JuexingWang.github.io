@@ -32,6 +32,11 @@ Recent News
   
 Publications
 ======
+*SoilNutri: A Passive Metasurface-based, Low-cost System for Soil Moisture and Nitrogen Monitoring
+**Juexing Wang**, Binbin Xie, Yimeng Liu, Minhao Cui, Xiao Zhang, Guangjing Wang, Ke Sun, Zhichao Cao, Huacheng Zeng, Qingxu Jin, Younsuk Dong, Hui Li, Jie Xiong, Tianxing Li.
+ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.
+(Full paper)
+
 * SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing  
   __Juexing Wang__*, Yuda Feng *, Gouree Kumbhar, Guangjing Wang, Qiben Yan, Qingxu Jin, Robert C. Ferrier, Jie Xiong, Tianxing Li   
   In Proceedings of ACM Conference on Mobile Systems, Applications, and Services (MobiSys), 2024.  
