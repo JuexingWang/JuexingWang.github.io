@@ -31,7 +31,7 @@ Publications
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.  
   (Full paper.)[[PDF]](https://juexingwang.github.io/files/Ubicomp26_SoilNutri.pdf)
 	
-* Privacy-Protected Hand Pose Reconstruction and Air Writing via Rolling Spheres 
+* Privacy-Protected Hand Pose Reconstruction and Air Writing via Rolling Spheres	 
   Xiao Zhang, Deniz Acikbas, Soham Naik, Griffin Klevering, **Juexing Wang**, Zaynab Mourtada, Li Xiao, Tianxing Li   
   IEEE Transactions on Mobile Computing(TMC) 
 
