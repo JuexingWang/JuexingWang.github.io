@@ -32,7 +32,7 @@ Publications
 	
 * Privacy-Protected Hand Pose Reconstruction and Air Writing via Rolling Spheres   
   Xiao Zhang, Deniz Acikbas, Soham Naik, Griffin Klevering, **Juexing Wang**, Zaynab Mourtada, Li Xiao, Tianxing Li   
-  IEEE Transactions on Mobile Computing(TMC) 
+  IEEE Transactions on Mobile Computing (TMC) 
 
 * SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing  
   __Juexing Wang__*, Yuda Feng *, Gouree Kumbhar, Guangjing Wang, Qiben Yan, Qingxu Jin, Robert C. Ferrier, Jie Xiong, Tianxing Li   
