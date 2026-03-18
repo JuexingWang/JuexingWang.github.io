@@ -32,7 +32,7 @@ Publications
   (Full paper.)[[PDF]](https://juexingwang.github.io/files/Ubicomp26_SoilNutri.pdf)
 	
 * Privacy-Protected Hand Pose Reconstruction and Air Writing via Rolling Spheres 
-  Xiao Zhang, Deniz Acikbas, Soham Naik, Griffin Klevering, **Juexing Wang**, Zaynab Mourtada, Li Xiao, Tianxing Li 
+  Xiao Zhang, Deniz Acikbas, Soham Naik, Griffin Klevering, **Juexing Wang**, Zaynab Mourtada, Li Xiao, Tianxing Li   
   IEEE Transactions on Mobile Computing(TMC) 
 
 * SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing  
