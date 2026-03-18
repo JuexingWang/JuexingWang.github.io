@@ -30,6 +30,10 @@ Publications
   **Juexing Wang**, Binbin Xie, Yimeng Liu, Minhao Cui, Xiao Zhang, Guangjing Wang, Ke Sun, Zhichao Cao, Huacheng Zeng, Qingxu Jin, Younsuk Dong, Hui Li, Jie Xiong, Tianxing Li  
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.  
   (Full paper.)[[PDF]](https://juexingwang.github.io/files/Ubicomp26_SoilNutri.pdf)
+	
+* Privacy-Protected Hand Pose Reconstruction and Air Writing via Rolling Spheres 
+  Xiao Zhang, Deniz Acikbas, Soham Naik, Griffin Klevering, **Juexing Wang**, Zaynab Mourtada, Li Xiao, Tianxing Li 
+  IEEE Transactions on Mobile Computing(TMC) 
 
 * SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing  
   __Juexing Wang__*, Yuda Feng *, Gouree Kumbhar, Guangjing Wang, Qiben Yan, Qingxu Jin, Robert C. Ferrier, Jie Xiong, Tianxing Li   
