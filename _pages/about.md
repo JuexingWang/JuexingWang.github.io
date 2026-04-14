@@ -9,7 +9,7 @@ redirect_from:
 I am a final-year Ph.D. candidate in the Department of Computer Science and Engineering at Michigan State University, advised by Prof. [Tianxing Li](https://www.cse.msu.edu/~litianx2/). I received my B.S. degree from Wuhan University, and subsequently earned Master’s degrees in Electrical and Computer Engineering from Worcester Polytechnic Institute and in Computer Science from the University of Massachusetts Amherst, where I worked on mmWave sensing under the guidance of Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 
-**Research Interests:**  Wireless Sensing, Multimodal and physics-aligned learning, Environmental monitoring and smart agriculture, Artificial Intelligence of Things
+**Research Interests:**  Wireless Sensing, Multimodal and Physics-aligned Learning, Environmental Monitoring, Smart Agriculture, Artificial Intelligence of Things
 
 
 Recent News
