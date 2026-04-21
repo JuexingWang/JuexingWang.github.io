@@ -14,8 +14,8 @@ I am a final-year Ph.D. candidate in the Department of Computer Science and Engi
 
 Recent News
 ======
-* **Mar 2026**   One paper is accepted at Ubicomp'26 
-* **Jan 2026**   One paper is accepted at Ubicomp'26
+* **Mar 2026**   One paper is accepted at UbiComp'26 
+* **Jan 2026**   One paper is accepted at UbiComp'26
 * **Dec 2025**  One paper is accepted at Transactions on Mobile Computing (TMC)
 * **May 2024**  I am happy to be awarded the NSF Travel Grant for attending ACM MobiSys '24.
 * **Mar 2024**  One paper is accepted at MobiSys '24.
