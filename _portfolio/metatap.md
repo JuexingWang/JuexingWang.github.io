@@ -12,7 +12,7 @@ conference: "UbiComp 2026"
   <img src="/images/projects/metatap_main.jpg"
        style="max-width:48%; height:auto;">
 
-  <img src="/images/projects/metatap_curve.jpg"
+  <img src="/images/projects/metatap_design.jpg"
        style="max-width:48%; height:auto;">
 
 </div>
