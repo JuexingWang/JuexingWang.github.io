@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /project/soilnutri/
 date: 2026-01-15
 category: "Environmental Intelligence"
-conference: "ACM UbiComp 2026"
+conference: "UbiComp 2026"
 ---
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; align-items:center; width:100%;">
