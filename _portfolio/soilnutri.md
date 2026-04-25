@@ -2,7 +2,6 @@
 title: "SoilNutri: A Passive Metasurface-based, Low-cost System for Soil Moisture and Nitrogen Monitoring"
 collection: portfolio
 permalink: /project/soilnutri/
-date: 2026-01-15
 category: "Environmental Intelligence"
 conference: "UbiComp 2026"
 ---
