@@ -3,7 +3,7 @@ title: "SoilNutri"
 excerpt: "Battery-free passive metasurface sensing for scalable soil moisture and nutrient monitoring."
 collection: portfolio
 permalink: /project/soilnutri/
-date: 2026-01-02
+date: 2026-01
 category: "Environmental Intelligence"
 conference: "ACM UbiComp 2026"
 ---
