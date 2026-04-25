@@ -5,15 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Featured Projects"
-permalink: /projects/
-author_profile: true
----
-
-{% include base_path %}
-
 ## Environmental Intelligence
 
 {% for post in site.portfolio %}
