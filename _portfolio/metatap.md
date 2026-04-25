@@ -10,10 +10,10 @@ conference: "UbiComp 2026"
 <div style="display:flex; gap:20px; justify-content:center; align-items:center;">
 
   <img src="/images/projects/metatap_main.jpg"
-       style="max-width:48%; height:auto;">
+       style="height:260px; width:auto;">
 
-  <img src="/images/projects/metatap_design.jpg"
-       style="max-width:48%; height:auto;">
+  <img src="/images/projects/metatap_curve.jpg"
+       style="height:260px; width:auto;">
 
 </div>
 
