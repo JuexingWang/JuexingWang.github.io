@@ -7,16 +7,15 @@ date: 2026-04-01
 conference: "UbiComp 2026"
 ---
 
-<div style="display:flex; gap:20px; justify-content:center; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; gap:20px; justify-content:center; align-items:center;">
 
   <img src="/images/projects/metatap_main.jpg"
-       style="height:320px; width:auto; object-fit:contain;">
+       style="height:260px; width:auto;">
 
-  <img src="/images/projects/metatap_design.jpg"
-       style="height:320px; width:auto; object-fit:contain;">
+  <img src="/images/projects/metatap_curve.jpg"
+       style="height:260px; width:auto;">
 
 </div>
-
 
 MetaTap is a passive metasurface-based sensing system for high-resolution detection of drinking water contaminants. It leverages a novel Complementary Asymmetric Split Square (CASS) structure, inspired by resonance splitting, together with amplitude-phase spectral features to detect ppb-level contaminants using a commercial UWB radar.
 
