@@ -10,10 +10,10 @@ order: 1
 <div style="display:flex; flex-direction:column; gap:18px; width:100%; margin-bottom:24px;">
 
   <img src="/images/projects/rofin_tmc_design.jpg"
-       style="width:100%; max-height:420px; object-fit:contain;">
+       style="width:75%; height:auto; margin:auto; object-fit:contain;">
 
   <img src="/images/projects/rofin_tmc_main.jpg"
-       style="width:100%; max-height:420px; object-fit:contain;">
+       style="width:100%; height:auto; object-fit:contain;">
 
 </div>
 
