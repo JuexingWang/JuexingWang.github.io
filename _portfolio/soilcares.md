@@ -1,6 +1,5 @@
 ---
-title: "SoilCares"
-excerpt: "Multimodal RF-VNIR soil sensing for simultaneous moisture and macronutrient monitoring through membrane-enabled robust in-situ measurement."
+title: "SoilCares: Towards Low-cost Soil Macronutrient and Moisture Monitoring Using RF-VNIR Sensing"
 collection: portfolio
 permalink: /project/soilcares/
 category: "Environmental Intelligence"
