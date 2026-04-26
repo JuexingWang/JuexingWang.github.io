@@ -17,7 +17,7 @@ I build physics-informed sensing systems for environmental intelligence using em
 ---
 
 ## AI-Systems
-I design robust and efficient AI systems for multimodal sensing and real-world deployment. My research focuses on learning under missing, delayed, or heterogeneous modalities, with an emphasis on cross-modality inference, representation learning, and practical intelligence in resource-constrained environments.
+I develop robust and efficient machine learning systems for real-world deployment. My research focuses on learning under missing, delayed, or heterogeneous data, with an emphasis on cross-modality inference, representation learning, and adaptive intelligence in resource-constrained environments.
 {% for post in site.portfolio %}
   {% if post.category == "AI-Systems" %}
     {% include archive-single.html %}
@@ -26,8 +26,8 @@ I design robust and efficient AI systems for multimodal sensing and real-world d
 
 ---
 
-## Cyber-Security
-
+## Trustworthy Intelligence
+I develop intelligent systems for secure and trustworthy human-computer interaction. My work explores sensing-driven authentication, behavioral understanding, and privacy-aware perception, with applications in biometric security, gesture understanding, and robust user-facing intelligence.
 {% for post in site.portfolio %}
   {% if post.category == "Security" %}
     {% include archive-single.html %}
