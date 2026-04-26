@@ -2,9 +2,9 @@
 title: "Rolling Spheres: Privacy-Protected Hand Pose Reconstruction and Air Writing"
 collection: portfolio
 permalink: /project/rolling-spheres/
-category: "Mobile Computing"
-conference: "IEEE TMC 2026"
-order: 0
+category: "Security"
+journal: "IEEE TMC 2026"
+order: 1
 ---
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; align-items:center; width:100%;">
