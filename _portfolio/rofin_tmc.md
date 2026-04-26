@@ -12,7 +12,7 @@ order: 1
   <img src="/images/projects/rofin_tmc_design.jpg"
        style="width:60%; height:auto; margin:auto; object-fit:contain;">
 
-  <img src="/images/projects/rofin_tmc_main.pdf"
+  <img src="/images/projects/rofin_tmc_main.jpg"
        style="width:100%; height:auto; object-fit:contain;">
 
 </div>
