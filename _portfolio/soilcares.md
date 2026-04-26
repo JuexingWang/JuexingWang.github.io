@@ -5,8 +5,7 @@ collection: portfolio
 permalink: /project/soilcares/
 category: "Environmental Intelligence"
 conference: "MobiSys 2024"
-%header:
-  %teaser: /images/projects/soilcares.jpg
+
 ---
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; align-items:center; width:100%;">
