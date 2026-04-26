@@ -19,12 +19,13 @@ I build physics-informed sensing systems for environmental intelligence using em
 
 ## AI Systems
 I develop robust and efficient machine learning systems for real-world deployment. My research focuses on learning under missing, delayed, or heterogeneous data, with an emphasis on cross-modality inference, representation learning, and adaptive intelligence in resource-constrained environments.
-{% for post in site.portfolio %}
-  {% if post.category == "AI-Systems" %}
+
+{% assign sorted_projects = site.portfolio | sort: 'order' %}
+{% for post in sorted_projects %}
+  {% if post.category == "AI Systems" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
 ---
 
 ## Trustworthy Intelligence
