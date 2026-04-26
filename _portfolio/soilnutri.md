@@ -17,13 +17,17 @@ conference: "UbiComp 2026"
 
 </div>
 
+
+
 **Conference:** {{ page.conference }}
 
-SoilNutri is a battery-free passive metasurface sensing platform for scalable soil monitoring. The system leverages RF spectral responses to estimate soil moisture and nitrogen concentration using low-cost sensors that can be deployed at scale without batteries or maintenance.
+SoilNutri introduces a battery-free encapsulated metasurface capsule for scalable underground sensing of soil moisture and nitrogen. A sandwich-structured PETG–PTFE design ensures robust soil coupling and long-term deployment, while physics-grounded spectral learning enables accurate multi-parameter estimation across diverse field conditions.
 
 **Highlights**
 
+- Encapsulated passive metasurface capsule
+- Sandwich-structured PETG + PTFE design
 - Battery-free passive sensing for long-term deployment  
 - Simultaneous soil moisture and nitrogen monitoring  
-- Low-cost metasurface sensor design  
-- Scalable environmental intelligence for agriculture
+- Reusable and <$1 scalable sensor
+
