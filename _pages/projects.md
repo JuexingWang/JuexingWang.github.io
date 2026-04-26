@@ -8,7 +8,7 @@ author_profile: true
 ## Environmental Intelligence
 I build physics-informed sensing systems for environmental intelligence using emerging modalities such as RF, metasurfaces, UWB radar, mmWave sensing, and multimodal learning. My work focuses on translating complex environmental signals into accessible and actionable information for real-world applications such as water quality monitoring, soil sensing, and intelligent agriculture.
 
-{% assign sorted_projects = site.portfolio | sort: 'date' | reverse %}
+{% assign sorted_projects = site.portfolio | sort: 'order' %}
 
 {% for post in sorted_projects %}
   {% if post.category == "Environmental Intelligence" %}
