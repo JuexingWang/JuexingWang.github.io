@@ -17,7 +17,7 @@ order: 1
 
 </div>
 
-
+**Journal:** {{ page.journal }}
 
 Rolling Spheres is a privacy-preserving hand interaction system for real-time 3D hand pose reconstruction and air writing. Instead of relying on cameras that capture facial or environmental details, it leverages rolling-shutter light pattern sensing with lightweight wearable markers to reconstruct hand motion at high temporal resolution while preserving user privacy.
 
