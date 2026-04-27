@@ -22,7 +22,7 @@ order: 1
 
 **Conference:** {{ page.conference }}
 
-**Links:** [PDF](/files/Ubicomp26_SoilNutri.pdf)
+[PDF](/files/Ubicomp26_SoilNutri.pdf)
 
 SoilNutri introduces a battery-free encapsulated metasurface capsule for scalable underground sensing of soil moisture and nitrogen. A sandwich-structured PETG–PTFE design ensures robust soil coupling and long-term deployment, while physics-grounded spectral learning enables accurate multi-parameter estimation across diverse field conditions.
 
