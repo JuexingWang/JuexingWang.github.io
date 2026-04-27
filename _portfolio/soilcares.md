@@ -19,6 +19,8 @@ order: 2
 
 **Conference:** {{ page.conference }}
 
+[PDF](/files/SoilCares.pdf)
+
 SoilCares is a low-cost multimodal RF-VNIR sensing system for simultaneous monitoring of soil moisture and macronutrients, including nitrogen, phosphorus, and potassium. It introduces a membrane-based interface to mitigate particle-size and soil-texture variations, enabling robust in-situ sensing without laboratory preprocessing such as drying or grinding.
 
 **Highlights**
