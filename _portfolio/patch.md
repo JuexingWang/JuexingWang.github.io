@@ -19,6 +19,8 @@ order: 1
 
 **Conference:** {{ page.conference }}
 
+[PDF](/files/PATCH.pdf)
+
 PATCH is a plug-in framework for non-blocking inference in distributed multimodal systems under missing, delayed, or corrupted sensor streams. It introduces cross-modality feature imputation, lightweight feature pair ranking, and data alignment modules to preserve inference accuracy and low latency without retraining the original multimodal models.
 
 **Highlights**
