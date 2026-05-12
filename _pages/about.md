@@ -28,6 +28,10 @@ Recent News
   
 Publications
 ======
+* MetaTap: Resonance-Splitting-Based Multi-Dip Encoding for High-Resolution Water Contaminant Sensing  
+  **Juexing Wang**, Binbin Xie, Minhao Cui, Yimeng Liu, Xiao Zhang, Ruofeng Liu, Huacheng Zeng, Zhichao Cao, Jie Xiong, Tianxing Li  
+  ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.
+  
 * SoilNutri: A Passive Metasurface-based, Low-cost System for Soil Moisture and Nitrogen Monitoring  
   **Juexing Wang**, Binbin Xie, Yimeng Liu, Minhao Cui, Xiao Zhang, Guangjing Wang, Ke Sun, Zhichao Cao, Huacheng Zeng, Qingxu Jin, Younsuk Dong, Hui Li, Jie Xiong, Tianxing Li  
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2026.  [[PDF]](https://juexingwang.github.io/files/Ubicomp26_SoilNutri.pdf)
