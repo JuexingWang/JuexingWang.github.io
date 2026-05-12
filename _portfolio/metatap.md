@@ -1,6 +1,6 @@
 ---
-title: "MetaTap: Passive Metasurface Sensing for Drinking Water Safety"
-excerpt: "A low-cost passive metasurface system for ppb-level drinking water contaminant detection."
+title: "MetaTap:  Resonance-Splitting-Based Multi-Dip Encoding for
+High-Resolution Water Contaminant Sensing"
 collection: portfolio
 permalink: /project/metatap/
 date: 2026-05-05
