@@ -5,7 +5,7 @@ permalink: /project/soilnutri/
 date: 2026-03-15
 category: "Environmental Intelligence"
 conference: "UbiComp 2026"
-order: 1
+order: 2
 ---
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; align-items:center; width:100%;">
