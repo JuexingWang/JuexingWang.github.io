@@ -3,8 +3,10 @@ title: "MetaTap: Passive Metasurface Sensing for Drinking Water Safety"
 excerpt: "A low-cost passive metasurface system for ppb-level drinking water contaminant detection."
 collection: portfolio
 permalink: /project/metatap/
-date: 2026-04-21(Minor)
+date: 2026-05-05
+category: "Environmental Intelligence"
 conference: "UbiComp 2026"
+order : 1
 ---
 
 <div style="display:flex; gap:20px; justify-content:center; align-items:center;">
