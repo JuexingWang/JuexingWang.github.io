@@ -14,7 +14,7 @@ I am a final-year Ph.D. candidate in the Department of Computer Science and Engi
 
 Recent News
 ======
-* **Apr 2026**   Awarded the ACM MobiSys 2026 Rising Star (Oral).
+* **Apr 2026**   Selected as an Oral Presenter for the ACM MobiSys 2026 Rising Stars Forum
 * **Mar 2026**   One paper is accepted at UbiComp'26 
 * **Jan 2026**   One paper is accepted at UbiComp'26
 * **Dec 2025**  One paper is accepted at Transactions on Mobile Computing (TMC)
