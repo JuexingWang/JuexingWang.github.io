@@ -50,7 +50,7 @@ Publications
  
 
 * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips  
-  Zhang, Xiao, Griffin Klevering, **Juexing Wang**, Li Xiao, and Tianxing Li  
+  Xiao Zhang, Griffin Klevering, **Juexing Wang**, Li Xiao, and Tianxing Li  
   In Proceedings of ACM Conference on Mobile Systems, Applications, and Services (MobiSys), 2023. (Acceptance rate: 41/198=20.7%) [[PDF]](https://juexingwang.github.io/files/RoFin.pdf)
   
 * FacER: Contrastive Attention-based Expression Recognition via Smartphone Earpiece Speaker  
