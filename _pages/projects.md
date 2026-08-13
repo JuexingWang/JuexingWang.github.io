@@ -28,6 +28,7 @@ I develop robust and efficient machine learning systems for real-world deploymen
 {% endfor %}
 ---
 
+{% comment %}
 ## Trustworthy Intelligence
 I collaborate on intelligent systems for secure and trustworthy human-computer interaction. Our work explores sensing-driven authentication, behavioral understanding, and privacy-aware perception, with applications in biometric security, gesture understanding, and robust user-facing intelligence.
 
@@ -38,3 +39,4 @@ I collaborate on intelligent systems for secure and trustworthy human-computer i
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+{% endcomment %}
